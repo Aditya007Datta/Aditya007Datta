@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Datta</h1>
-<h3 align="center">A fine</h3>
+<h3 align="center">Learning to code, learning to develop</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya007datta&label=Profile%20views&color=0e75b6&style=flat" alt="aditya007datta" /> </p>
 
-- 🌱 I’m currently learning **React, Node,**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
