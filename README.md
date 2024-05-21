@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 10px;">
+<div style="background: red">
 <h1 align="center">Hi 👋, I'm Aditya Datta</h1>
 <h3 align="center">Learning to code , Learning to develop</h3>
 
