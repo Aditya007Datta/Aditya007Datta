@@ -1,3 +1,4 @@
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi 👋, I'm Aditya Datta</h1>
 <h3 align="center">Learning to code , Learning to develop</h3>
 
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya007datta&show_icons=true&locale=en" alt="aditya007datta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya007datta&" alt="aditya007datta" /></p>
+</div>
